@@ -1,0 +1,15 @@
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\bin\Debug\LinqToExample.exe.config
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\bin\Debug\LinqToExample.exe
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\bin\Debug\LinqToExample.pdb
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\bin\Debug\EntityFramework.dll
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\bin\Debug\EntityFramework.xml
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\obj\Debug\LinqToExample.csprojAssemblyReference.cache
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\obj\Debug\LinqToExample.Form1.resources
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\obj\Debug\LinqToExample.Properties.Resources.resources
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\obj\Debug\LinqToExample.csproj.GenerateResource.cache
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\obj\Debug\LinqToExample.csproj.CoreCompileInputs.cache
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\obj\Debug\LinqToExample.csproj.CopyComplete
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\obj\Debug\LinqToExample.exe
+C:\Users\ITOPYA\source\repos\LinqToExample\LinqToExample\obj\Debug\LinqToExample.pdb
